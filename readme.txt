@@ -17,6 +17,9 @@ I like troubleshooting things.
 ---------------------------------------------------------
 Why I want to contribute to open source?
 
+gaining experience , Learning new skills
+
+Contributing to a large project
 
 
 
